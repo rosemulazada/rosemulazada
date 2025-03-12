@@ -1,9 +1,9 @@
 ### hi! i'm rose. 👋
 
 I'm 21 years old, an aspiring 🌱 creative front-end developer, currently finishing my internship at De Voorhoede 🛡️ and seeking a mentor for my graduation project. ✨
-<!--
 
-- 👩‍💻 My languages are HTML, CSS, JavaScript, Typescript, Sass, Express, Node.js, EJS, D3.js, Astro and SvelteKit.
+#### my languages 🌏
+<!--
 - 🧠 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,3 +12,10 @@ I'm 21 years old, an aspiring 🌱 creative front-end developer, currently finis
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### statistics 
+In case you're curious :)
+
+![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemulazada&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemulazada&size_weight=0.5&count_weight=0.5&theme=dracula&langs_count=7&layout=compact)
