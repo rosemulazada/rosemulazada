@@ -29,7 +29,6 @@ I'm 21 years old, an aspiring 🌱 creative front-end developer, currently finis
 -->
 
 <br>
-<br> 
 
 #### statistics 📈
 In case you're curious :)
