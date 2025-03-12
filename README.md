@@ -31,8 +31,7 @@ I'm 21 years old, an aspiring 🌱 creative front-end developer, currently finis
 <br>
 <br> 
 
-
-#### statistics 
+#### statistics 📈
 In case you're curious :)
 
 ![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemulazada&show_icons=true&theme=dracula)
