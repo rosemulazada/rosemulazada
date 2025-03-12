@@ -3,7 +3,6 @@
 
 I'm 21 years old, an aspiring 🌱 creative front-end developer, currently finishing my internship at De Voorhoede 🛡️ and seeking a mentor for my graduation project. ✨
 
-<br> 
 
 <h4>my languages 🌏</h4>
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
